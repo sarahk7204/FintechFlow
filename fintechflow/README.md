@@ -76,10 +76,4 @@ VITE_API_URL=https://your-render-backend-url.onrender.com/api
 - **Storage:** In-memory JavaScript arrays/objects (no database)
 - **Deployment:** Vercel (frontend) + Render (backend)
 
----
 
-## Submission Links
-
-**GitHub Repository:** ___________________________________________________________  
-**Frontend Live URL:** ___________________________________________________________  
-**Backend Live URL:** ___________________________________________________________
